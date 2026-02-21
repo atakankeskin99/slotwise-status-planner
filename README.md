@@ -1,4 +1,4 @@
-# 🗂️ slotwise-status-planner
+# 🗂️ Slotwise Status Planner
 
 ![Status](https://img.shields.io/badge/status-archived-lightgrey)
 ![Type](https://img.shields.io/badge/type-web%20app-blue)
