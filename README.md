@@ -126,6 +126,6 @@ This project is intentionally **left in a complete, stable state**.
 While the original use case ended, the work itself was not discarded.  
 Instead of forcing continuation without purpose, I chose to **close this chapter cleanly** and leave room for a meaningful transformation.
 
-> *“Not every finished project needs to keep running — some just need to be finished properly.”*
+
 
 
